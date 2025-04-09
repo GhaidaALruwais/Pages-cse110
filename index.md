@@ -2,9 +2,10 @@
 ## Introduction ##
 Hiii, my name is **ghaida alruwais**. I'm currently a third year computer science student at *UC San Diego*. ~Welll~ Welcome to my <ins>Github</ins> page.
 ## About Me ##
-> "Adding manpower to a late software project makes it later", Fred Brooks
+> "Adding manpower to a late software project makes it later", Fred Brooks 
+
 ### skills ###
-- Programming Languages: Python, JavaScript, C++, Swift
+- programming Languages: Python, JavaScript, C++, Swift
 - Tools: Git, VS Code, Figma
 - Interests: App development, AI, Data Science 
 ## Journey in CS ##
@@ -30,5 +31,5 @@ git push
 ## Get to know me ##
 - [Personal Portfolio](https://galruwaisportfolio.netlify.app/)
 - [About me](#about-me)
-- [Skills](#skills)
+
 
